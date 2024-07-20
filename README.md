@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me :
 
-- Sarah Funkhouser, also know by `@sfunk`
+- Sarah Funkhouser, also known by `@sfunk`
 - Pronouns: she/her
 
 [![sfunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=golanglemonade&show_icons=true&theme=radical&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
