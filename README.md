@@ -4,6 +4,8 @@
 
 - Sarah Funkhouser, also known by `@sfunk`
 - Pronouns: she/her
+- 🌱 Incubating a startup, [Openlane](https://theopenlane.io). Check out our opensource [repos](https://github.com/theopenlane) and give them a ⭐
+- 💻 Write a lot of golang, and generally stick to the terminal, but love trying out new technologies and languages
 
 [![sfunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=golanglemonade&show_icons=true&theme=radical&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
